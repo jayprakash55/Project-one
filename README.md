@@ -2,7 +2,7 @@
 
 This is a quiz program about me. This program runs in Node.js
 
-##Tech used:
+## Tech used:
  
 1. Node.js
 1. Repl.it
