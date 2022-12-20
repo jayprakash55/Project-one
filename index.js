@@ -47,4 +47,4 @@ for(var i=0; i<questions.length; i++)
     play(currentquestion.question,currentquestion.answer);
   }
 
- console.log("Yay! you scored: ", score)
+ console.log("You scored:", score + " points")
