@@ -8,4 +8,4 @@ This is a quiz program about me. This program runs in Node.js
 1. Repl.it
 
 ### Screenshot
-!(image/screenshot.png)
+![screenshot](image/screenshot.png)
